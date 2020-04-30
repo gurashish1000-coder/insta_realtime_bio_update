@@ -6,7 +6,7 @@ This is a simple Python Script built using selenium and pyjokes that updates the
 
 How it will look:
 
-
+<img src="images/insta.PNG"  >
 
 ## Required Steps
 
