@@ -44,9 +44,9 @@ if __name__ == '__main__':
     time.sleep(2)
     # filling in the fields
     user = browser.find_element_by_name("username")
-    user.send_keys("6476770064")
+    user.send_keys("")
     passwd = browser.find_element_by_name("password")
-    passwd.send_keys("Spiderman@3")
+    passwd.send_keys("")
     time.sleep(2)
     # logging in
     button_click(browser, '//*[@id="react-root"]/section/main/article/div[2]/div[1]/div/form/div[4]/button' )
